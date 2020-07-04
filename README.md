@@ -1,13 +1,13 @@
 # wz-weaponshop
 
-Bonjour à tous je vous présente aujourd'hui ce petit Mécano Shop réalisé en RageUI qui sert aux joueurs de votre serveur d'acheter des Kits de Réparations et des Kits de Carosserie !
+Bonjour à tous je vous présente aujourd'hui ce script Armurerie réalisé en RageUI qui permettera à vos joueurs d'acheter des armes en toute légalité.Ceci est une V1 et plusieurs autres versions sont à venir.
 
 Le nom de la ressource n'est pas modifiable !
 
 -----------------------------------------------------
 -----------------------------------------------------
 
-Hello everyone, I present to you today this little Mechanism Made in RageUI which is used by players of your server bought Repair Kits and Body Kits!
+Hello everyone I present to you today this Armory script made in RageUI which will allow your players to buy weapons legally. This is a V1 and several other versions are coming.
 
 The name of the resource cannot be changed!
 
@@ -18,7 +18,7 @@ The name of the resource cannot be changed!
 
 # Screenshot
 
-![screenshot](https://media.discordapp.net/attachments/373741265537204225/725391251079299122/unknown.png?width=802&height=702)
+![screenshot](https://media.discordapp.net/attachments/723280320450920480/729083814638518282/unknown.png?width=819&height=702)
  - [Ressource Preview](https://streamable.com/3gb7cw) 
 # Installation
 - Import `wz-weaponshop` in your server base
