@@ -19,7 +19,7 @@ The name of the resource cannot be changed!
 # Screenshot
 
 ![screenshot](https://media.discordapp.net/attachments/373741265537204225/725391251079299122/unknown.png?width=802&height=702)
- - [Ressource Preview](https://streamable.com/88vz2t) 
+ - [Ressource Preview](https://streamable.com/3gb7cw) 
 # Installation
 - Import `wz-weaponshop` in your server base
 - Add this in your `server.cfg`:
