@@ -13,7 +13,8 @@ The name of the resource cannot be changed!
 
 # Requirements
 
-- [esx_mechanicjob](https://github.com/ESX-Org/esx_mechanicjob) 
+- [esx_clip](https://github.com/gregos1810/esx_clip) 
+- [eden_accesories](https://github.com/esx-community/eden_accesories) 
 
 # Screenshot
 
